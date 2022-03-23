@@ -1,0 +1,17 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: "Montserrat";
+	padding-top: 100px;
+}
+
+.wrapper {
+	width: 375px;
+	height: 750px;
+	margin: 0 auto;
+	background-color: #1a1a1a;
+}
