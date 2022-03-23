@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Calculator-App-on-React/static/css/main.79fcf8a2.css",
+    "main.js": "/Calculator-App-on-React/static/js/main.0045e596.js",
+    "static/media/currency-icon.svg": "/Calculator-App-on-React/static/media/currency-icon.bae23e994172f24c57b81c3b29abeb89.svg",
+    "static/media/delete-red.svg": "/Calculator-App-on-React/static/media/delete-red.0d86be1b75f27ac2885f57cfabd59914.svg",
+    "static/media/delete.svg": "/Calculator-App-on-React/static/media/delete.b414efc0feddf959d19419dee8039954.svg",
+    "index.html": "/Calculator-App-on-React/index.html",
+    "main.79fcf8a2.css.map": "/Calculator-App-on-React/static/css/main.79fcf8a2.css.map",
+    "main.0045e596.js.map": "/Calculator-App-on-React/static/js/main.0045e596.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79fcf8a2.css",
+    "static/js/main.0045e596.js"
+  ]
+}
